@@ -8,6 +8,7 @@ public class TestOne {
 		System.out.println("Hello Git version 1!");
 		System.out.println("Hello Git version 2!");
 		System.out.println("Hello Git version 3!");
+		System.out.println("Hello Git version 4!");
 	}
 	
 }
